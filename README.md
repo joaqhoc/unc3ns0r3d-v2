@@ -8,6 +8,10 @@
 ### ¿Que es Unc3ns0r3d?
 - Unc3ns0r3d es un proyecto realizado por mi, para compartir herramientas e ir mejorando el proyecto.
 
+### ¿Como instalar?
+- Descargar desde GitHub https://codeload.github.com/joaqhoc/unc3ns0r3d-v2/zip/master o desde MEGA: https://mega.nz/#!RvJkGYqC!ZRlASWEYhzkSGn-3fZQz-5t9juyS1M74bxBvanwKoOA
+Una vez descomprimido subir los archivos y carpetas al hosting o directorio a instalar. Abrir PHPMyAdmin e importar la base de datos que esta dentro del zip descargado. 
+
 ### Herramientas:
 
 ✔ Bin Checker
