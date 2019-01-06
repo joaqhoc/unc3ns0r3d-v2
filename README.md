@@ -10,23 +10,23 @@
 
 ### Herramientas:
 
-✔ ** Bin Checker
+✔ Bin Checker
 
-✔ ** Extrapolar CC
+✔ Extrapolar CC
 
-✔ ** Check IBAN
+✔ Check IBAN
 
-✔ ** Check IMEI
+✔ Check IMEI
 
-✔ ** Check Balance BlockChain
+✔ Check Balance BlockChain
 
-✔ ** Check Dominios
+✔ Check Dominios
 
-✔ ** Check IP/Puerto
+✔ Check IP/Puerto
 
-✔ ** Generador de Cuentas
+✔ Generador de Cuentas
 
-✔ ** Web Proxy Online
+✔ Web Proxy Online
 
 ================================================================
 
