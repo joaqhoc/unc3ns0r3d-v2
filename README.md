@@ -28,5 +28,21 @@
 
 ✔ Web Proxy Online
 
+### Herramientas que se iran agregando:
+
+➕ Checker Stripe CC
+
+➕ Checker FAKE CC
+
+➕ Generador de CC
+
+➕ Checker Spotify ACC
+
+➕ Checker Netflix ACC
+
 ================================================================
 
+Contact ME: ➕5⃣4⃣9⃣3⃣4⃣5⃣4⃣1⃣0⃣7⃣1⃣8⃣6⃣
+
+
+Made in 🇦🇷
